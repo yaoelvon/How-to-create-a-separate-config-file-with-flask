@@ -12,3 +12,6 @@ app.config.from_pyfile('config.cfg')
 # And use it like so:
 app.config['HELLO']
 ```
+log:
+2016/04/13
+add app.config.from_envvar() 
